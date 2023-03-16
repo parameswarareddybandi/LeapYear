@@ -1,0 +1,28 @@
+body {
+    background-color: orchid;
+}
+
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#result {
+    visibility: hidden;
+}
+
+.container {
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background-color: orchid;
+}
+
+.card {
+    padding: 7% 15%;
+}
+
+#result {
+    margin-top: 10px;
+}
+
